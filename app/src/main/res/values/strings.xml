@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PowercodeTestApp</string>
+    <string name="enter_comment">Enter comment</string>
+    <string name="button_select_image">Select image</string>
+    <string name="button_create_file">Create file</string>
+    <string name="button_add_page">Add page</string>
+    <string name="page_num_pattern">Page #%1$d</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="field_is_required">Field is required</string>
+    <string name="file_name_title">File name</string>
+    <string name="enter_file_name_hint">Enter file name</string>
+    <string name="error_activity_not_found">No compatible software installed</string>
+    <string name="please_wait_title">Please wait</string>
+    <string name="file_creation_message">File creation</string>
+    <string name="file_creation_title">File creation</string>
+    <string name="error_title">Error</string>
+</resources>
